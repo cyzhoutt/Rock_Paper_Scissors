@@ -3,9 +3,6 @@ cmake-build-Debug
 .idea
 .vscode
 Archive.zip
-CMakeLists.txt
-
-
 
 # Prerequisites
 *.d
